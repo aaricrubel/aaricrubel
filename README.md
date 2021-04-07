@@ -65,8 +65,8 @@ Here are some ideas to get you started:
  <img height="70" src="https://github.com/aaricrubel/aaricrubel/blob/main/icons/swift.png">&ensp;
  <img height="70" src="https://github.com/aaricrubel/aaricrubel/blob/main/icons/react.png">&ensp;
 
-#  ✨ Github Stats 👇
-[![Abhinav's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaricrubel&hide=stars,prs,issues,contribs&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+#  ✨ Most Used Languages 👇
+<!--[![Abhinav's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaricrubel&hide=stars,prs,issues,contribs&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)-->
 
 <a href="https://github.com/aaricrubel/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaricrubel&layout=compact&theme=tokyonight" />
