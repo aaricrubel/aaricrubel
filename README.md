@@ -68,5 +68,10 @@ Here are some ideas to get you started:
 #  ✨ Github Stats 👇
 [![Abhinav's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaricrubel&hide=stars,prs,issues,contribs&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+<a href="https://github.com/aaricrubel/github-readme-stats">
+  <!-- Change the `github-readme-stats.chait04.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaricrubel&layout=compact&theme=tokyonight" />
+</a>
+
  # ⚡ Fun fact 👇
   ### I love Music just like you! XD
