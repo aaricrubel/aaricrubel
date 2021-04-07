@@ -17,18 +17,25 @@ Here are some ideas to get you started:
 ### Hey There, This is Abhinav 🧑‍🚀
 
 ## Welcome to my Github ❗
-<img  align='right' src="https://github.com/aaricrubel/aaricrubel/blob/main/icons/bitmoji.png" height="350">
+<img  align='right' src="https://github.com/aaricrubel/aaricrubel/blob/main/icons/bitmoji-1.png" height="350">
 
 
-Currently, I'm a sophomore student 🧑‍🎓 at KIIT University, Bhubaneswar trying hands-on Computer Science 💻.
+<code>Currently, I'm a sophomore student 🧑‍🎓 at KIIT University, Bhubaneswar trying hands-on Computer Science 💻.</code>
 
 
 ### 📫 How to reach me —> <br> 
 
-<a href="https://www.linkedin.com/in/abhinav-mukherjee-79773619a/"><img height="30" src="https://github.com/aaricrubel/aaricrubel/blob/main/icons/linkedIn.png"></a>&ensp;
-<a href="https://www.instagram.com/roouble/"><img height="30" src="https://github.com/aaricrubel/aaricrubel/blob/main/icons/instagram.png"></a>
-<a href="https://www.twitter.com/aaricrubel/"><img height="30" src="https://github.com/aaricrubel/aaricrubel/blob/main/icons/twitter.png"></a>
-<a href="mailto:aaricrubel@gmail.com"><img height="30" src="https://github.com/aaricrubel/aaricrubel/blob/main/icons/gmail.png"></a>&ensp;
+<a href="https://twitter.com/aaricrubel">
+  <img alt="Aaric Rubel" | Twitter" src="https://img.shields.io/static/v1?label=Twitter&message=Aaric&color=blue&style=flat-square&logo=twitter" />
+</a>
+<a href='https://www.linkedin.com/in/abhinav-mukherjee-79773619a/' target='_blank' rel='noopener' rel='noreferrer'>
+    <img src='https://img.shields.io/static/v1?label=LinkedIn&message=Abhinav&color=blue&style=flat-square&logo=linkedin' />
+  </a>
+                                                                                                                                                
+ <a href='mailto:aaricrubel@gmail.com' target='_blank' rel='noopener' rel='noreferrer'>
+    <img src='https://img.shields.io/static/v1?label=Gmail&message=Aaric&color=blue&style=flat-square&logo=gmail' />
+  </a>
+&ensp;
 
 
 ----
@@ -57,6 +64,9 @@ Currently, I'm a sophomore student 🧑‍🎓 at KIIT University, Bhubaneswar t
  # 🤔 I’m looking for help with 👇
  <img height="70" src="https://github.com/aaricrubel/aaricrubel/blob/main/icons/swift.png">&ensp;
  <img height="70" src="https://github.com/aaricrubel/aaricrubel/blob/main/icons/react.png">&ensp;
+
+#  ✨ Github Stats 👇
+[![Abhinav's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaricrubel&hide=stars,prs,issues,contribs&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
  # ⚡ Fun fact 👇
   ### I love Music just like you! XD
