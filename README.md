@@ -54,7 +54,6 @@ Here are some ideas to get you started:
  <img height="70" src="https://github.com/aaricrubel/aaricrubel/blob/main/icons/javascript.png">&ensp;
  <img height="70" src="https://github.com/aaricrubel/aaricrubel/blob/main/icons/nodejs.png">&ensp;
  <img height="70" src="https://github.com/aaricrubel/aaricrubel/blob/main/icons/java.png">&ensp;
- <img height="70" src="https://github.com/aaricrubel/aaricrubel/blob/main/icons/c%2B%2B.png">&ensp;
 
 
 ----
