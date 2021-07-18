@@ -49,10 +49,9 @@ Here are some ideas to get you started:
 
 
 # 🌱 I’m currently learning 👇
- <img height="70" src="https://github.com/aaricrubel/aaricrubel/blob/main/icons/HTML5_logo.png">&ensp; 
- <img height="70" src="https://github.com/aaricrubel/aaricrubel/blob/main/icons/css3.png">&ensp; 
  <img height="70" src="https://github.com/aaricrubel/aaricrubel/blob/main/icons/javascript.png">&ensp;
  <img height="70" src="https://github.com/aaricrubel/aaricrubel/blob/main/icons/nodejs.png">&ensp;
+ <img height="70" src="https://github.com/aaricrubel/aaricrubel/blob/main/icons/react.png">&ensp;
  <img height="70" src="https://github.com/aaricrubel/aaricrubel/blob/main/icons/java.png">&ensp;
 
 
@@ -61,7 +60,8 @@ Here are some ideas to get you started:
 
 # 💬 Ask me about 👇
  <img height="70" src="https://github.com/aaricrubel/aaricrubel/blob/main/icons/vscode.png">&ensp;
- <img height="70" src="https://github.com/aaricrubel/aaricrubel/blob/main/icons/HTML5_logo.png">&ensp; 
+ <img height="70" src="https://github.com/aaricrubel/aaricrubel/blob/main/icons/HTML5_logo.png">&ensp;
+ <img height="70" src="https://github.com/aaricrubel/aaricrubel/blob/main/icons/css3.png">&ensp; 
  <img height="70" src="https://github.com/aaricrubel/aaricrubel/blob/main/icons/java.png">&ensp;
 
  ----
